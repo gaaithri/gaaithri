@@ -1,7 +1,4 @@
 - 👋 Hi, I'm Gayathri
-- 👀 I’m interested in python AI ML .
-- 🌱 I’m currently learning AI ML
-- 💞️ I’m looking to collaborate on AI ML
 - 📫 How to reach me :gaaithrinathan@gmail.com
 
 <!---
